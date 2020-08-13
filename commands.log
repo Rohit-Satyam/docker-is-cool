@@ -1,0 +1,4 @@
+conda install -c bioconda entrez-direct
+conda install -c mmolnar racer
+conda install -c mmolnar sage2
+conda install -c bioconda sra-tools
