@@ -1,4 +1,7 @@
 # docker-is-cool
+https://bioinformatictools.wordpress.com/tag/velvet/
+https://bioinformaticsonline.com/pages/view/30440/genome-assembly-tools-and-software-part2
+https://bioinformaticsonline.com/pages/view/30242/genome-assembly-tools-and-software-part1
 
 ### SAGE2 Usage
 
